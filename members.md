@@ -8,8 +8,9 @@
 
 # CFP Selection Committee
 
-| Members        | Project  | Foundation/Organization | contact                  |
-|----------------|----------|-------------------------|--------------------------|
-| Jiri Pechanec  | Debezium | Commonhaus              | jiri.pechanec@centrum.cz |
-| Chris Cranford | Debezium | Commonhaus              | naros@commonhaus.dev     |
-| Ferenc Csaky   | Flink    | Apache                  | fcsaky@apache.org        |
+| Members         | Project  | Foundation/Organization | contact                  |
+|-----------------|----------|-------------------------|--------------------------|
+| Jiri Pechanec   | Debezium | Commonhaus              | jiri.pechanec@centrum.cz |
+| Chris Cranford  | Debezium | Commonhaus              | naros@commonhaus.dev     |
+| Ferenc Csaky    | Flink    | Apache                  | fcsaky@apache.org        |
+| Giannis Polyzos | Fluss    | Apache                  | ipolyzos@apache.org      |
