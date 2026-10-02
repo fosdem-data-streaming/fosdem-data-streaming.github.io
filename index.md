@@ -35,9 +35,10 @@ A few notes:
 
 ## CFP Selection Committee
 
-| Members       | Project  | Foundation/Organization |
-|---------------|----------|-------------------------|
-| Jiri Pechanec | Debezium | Commonhaus              |
+| Members        | Project  | Foundation/Organization |
+|----------------|----------|-------------------------|
+| Jiri Pechanec  | Debezium | Commonhaus              |
+| Chris Cranford | Debezium | Commonhaus              |
 
 ## To Submit
 

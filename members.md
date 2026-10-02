@@ -8,6 +8,7 @@
 
 # CFP Selection Committee
 
-| Members       | Project  | Foundation/Organization | contact                  |
-|---------------|----------|-------------------------|--------------------------|
-| Jiri Pechanec | Debezium | Commonhaus              | jiri.pechanec@centrum.cz |
+| Members        | Project  | Foundation/Organization | contact                  |
+|----------------|----------|-------------------------|--------------------------|
+| Jiri Pechanec  | Debezium | Commonhaus              | jiri.pechanec@centrum.cz |
+| Chris Cranford | Debezium | Commonhaus              | naros@commonhaus.dev     |
