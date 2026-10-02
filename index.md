@@ -39,6 +39,7 @@ A few notes:
 |----------------|----------|-------------------------|
 | Jiri Pechanec  | Debezium | Commonhaus              |
 | Chris Cranford | Debezium | Commonhaus              |
+| Ferenc Csaky   | Flink    | Apache                  |
 
 ## To Submit
 
