@@ -35,9 +35,9 @@ A few notes:
 
 ## CFP Selection Committee
 
-| Members | Project | Foundation/Organization |
-|---------|---------|-------------------------|
-| TBD     | TBD     | TBD                     |
+| Members       | Project  | Foundation/Organization |
+|---------------|----------|-------------------------|
+| Jiri Pechanec | Debezium | Commonhaus              |
 
 ## To Submit
 
