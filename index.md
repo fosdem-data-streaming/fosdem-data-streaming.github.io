@@ -35,11 +35,12 @@ A few notes:
 
 ## CFP Selection Committee
 
-| Members        | Project  | Foundation/Organization |
-|----------------|----------|-------------------------|
-| Jiri Pechanec  | Debezium | Commonhaus              |
-| Chris Cranford | Debezium | Commonhaus              |
-| Ferenc Csaky   | Flink    | Apache                  |
+| Members         | Project  | Foundation/Organization |
+|-----------------|----------|-------------------------|
+| Jiri Pechanec   | Debezium | Commonhaus              |
+| Chris Cranford  | Debezium | Commonhaus              |
+| Ferenc Csaky    | Flink    | Apache                  |
+| Giannis Polyzos | Fluss    | Apache                  |
 
 ## To Submit
 
