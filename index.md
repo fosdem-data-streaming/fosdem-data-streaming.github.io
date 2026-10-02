@@ -40,6 +40,7 @@ A few notes:
 | Jiri Pechanec   | Debezium | Commonhaus              |
 | Chris Cranford  | Debezium | Commonhaus              |
 | Ferenc Csaky    | Flink    | Apache                  |
+| Paolo Patierno  | Strimzi  | CNCF                    |
 
 ## To Submit
 
@@ -56,6 +57,6 @@ Go to the FOSDEM 2027 [Pretalx website](https://pretalx.fosdem.org/fosdem-2027/c
 | Mario Fiore Vitale    | Debezium | Commonhaus              |
 | Vincenzo Santonastaso | Debezium | Commonhaus              | 
 | Giannis Polyzos       | Fluss    | Apache                  |
-
+| Paolo Patierno        | Strimzi  | CNCF                    |
 
 
