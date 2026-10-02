@@ -41,6 +41,7 @@ A few notes:
 | Chris Cranford  | Debezium | Commonhaus              |
 | Ferenc Csaky    | Flink    | Apache                  |
 | Paolo Patierno  | Strimzi  | CNCF                    |
+| Anton Borisov  | Fluss    | Apache                  |
 
 ## To Submit
 
