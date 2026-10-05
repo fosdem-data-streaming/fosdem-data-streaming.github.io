@@ -19,3 +19,4 @@
 | Paolo Patierno  | Strimzi  | CNCF                    | ppatierno@live.com       |
 | Anton Borisov  | Fluss    | Apache                  | aborisov@apache.org      |
 | David Zollo     | SeaTunnel | Apache                 | davidzollo365@gmail.com  |
+| Mickael Maison  | Kafka    | Apache                  | mimaison@apache.org      |
