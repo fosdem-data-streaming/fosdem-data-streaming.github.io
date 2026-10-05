@@ -18,3 +18,4 @@
 | Ferenc Csaky    | Flink    | Apache                  | fcsaky@apache.org        |
 | Paolo Patierno  | Strimzi  | CNCF                    | ppatierno@live.com       |
 | Anton Borisov  | Fluss    | Apache                  | aborisov@apache.org      |
+| David Zollo     | SeaTunnel | Apache                 | davidzollo365@gmail.com  |
