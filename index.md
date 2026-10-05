@@ -42,6 +42,7 @@ A few notes:
 | Ferenc Csaky    | Flink    | Apache                  |
 | Paolo Patierno  | Strimzi  | CNCF                    |
 | Anton Borisov  | Fluss    | Apache                  |
+| David Zollo     | SeaTunnel | Apache                 |
 
 ## To Submit
 
@@ -59,5 +60,4 @@ Go to the FOSDEM 2027 [Pretalx website](https://pretalx.fosdem.org/fosdem-2027/c
 | Vincenzo Santonastaso | Debezium | Commonhaus              | 
 | Giannis Polyzos       | Fluss    | Apache                  |
 | Paolo Patierno        | Strimzi  | CNCF                    |
-
 
