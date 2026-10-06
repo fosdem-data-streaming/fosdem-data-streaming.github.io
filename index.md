@@ -43,6 +43,7 @@ A few notes:
 | Paolo Patierno  | Strimzi  | CNCF                    |
 | Anton Borisov  | Fluss    | Apache                  |
 | David Zollo     | SeaTunnel | Apache                 |
+| Mickael Maison  | Kafka    | Apache                  |
 
 ## To Submit
 
