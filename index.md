@@ -44,6 +44,7 @@ A few notes:
 | Anton Borisov  | Fluss    | Apache                  |
 | David Zollo     | SeaTunnel | Apache                 |
 | Mickael Maison  | Kafka    | Apache                  |
+| Jark Wu         | Fluss    | Apache                  |
 
 ## To Submit
 
