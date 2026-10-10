@@ -45,6 +45,7 @@ A few notes:
 | David Zollo     | SeaTunnel | Apache                 |
 | Mickael Maison  | Kafka    | Apache                  |
 | Jark Wu         | Fluss    | Apache                  |
+| Hans-Peter Grahsl | Kryptonite for Kafka | Community |
 
 ## To Submit
 
